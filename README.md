@@ -1,6 +1,17 @@
-# 📚 AutoAware
+<div align="center">
+
+# 🚗 AutoAware
+
+### OpenCV-Based Driver Monitoring System (DMS)
+
+![AutoAware Logo](https://github.com/user-attachments/assets/38f8a737-f56f-4eaa-a652-16ff3e9ca6d0)
+
+</div>
 
 The **Auto Aware's goal** is to **prevent traffic accidents** and create a **safe driving environment** by **monitoring the driver's condition in real time**. Its service helps maintain driver focus through features such as **drowsiness detection** and **forward-looking alerts**. By utilizing **facial recognition technology**, it continuously monitors the driver's state and provides **immediate warnings** in dangerous situations to prevent accidents before they occur.
+
+
+
 
 ## 🌟 Main Features
 - **Face Registration and Recognition**: Detects and analyzes faces, storing data and using it for real-time driver recognition and unregistered driver detection.
