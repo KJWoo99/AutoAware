@@ -36,21 +36,15 @@ The **Auto Aware's goal** is to **prevent traffic accidents** and create a **saf
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/9d73587e-b817-41da-bb5c-714b36cc23a1" style="width: 80%;" /><br><b>Example Image 10</b>
+      <img src="https://github.com/user-attachments/assets/9d73587e-b817-41da-bb5c-714b36cc23a1" style="width: 90%;" /><br><b>Example Image 10</b>
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/8cf73a18-ecdd-414a-951f-83f2fcf94150" style="width: 80%;" /><br><b>Key Features</b>
+      <img src="https://github.com/user-attachments/assets/8cf73a18-ecdd-414a-951f-83f2fcf94150" style="width: 90%;" /><br><b>Key Features</b>
     </td>
   </tr>
 </table>
 
-
-
-
-
-</details>
-
-
-
+## 🎥 Video Demo
+https://github.com/user-attachments/assets/d574041b-dfb8-4c55-866a-aa25073ad8bd
 
 
