@@ -38,8 +38,7 @@ The **Auto Aware's goal** is to **prevent traffic accidents** and create a **saf
 ### 🚀 Deployment
 - Python
 - Geolocation API
-- YOLO
-- Pytorch
+- PyTorch(RetinaFace, PFLD)
 
 
 ## 🌟 Key Features
